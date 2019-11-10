@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Users>
+    <User ID="1">
+        <NAME>mohammed elamin</NAME>
+        <EMAIL>melamin100@yahoo.com</EMAIL>
+        <PASSWORD>309cd3800aacbd003ac36199fa537295</PASSWORD>
+    </User>
+    <User ID="2">
+        <NAME>mohammed elamin</NAME>
+        <EMAIL>melamin200@yahoo.com</EMAIL>
+        <PASSWORD>ecb5c13a7cf23b6531e56e3083abf576</PASSWORD>
+    </User>
+    <User ID="3">
+        <NAME>mohammed elamin</NAME>
+        <EMAIL>melamin500@yahoo.com</EMAIL>
+        <PASSWORD>309cd3800aacbd003ac36199fa537295</PASSWORD>
+    </User>
+
+</Users>
